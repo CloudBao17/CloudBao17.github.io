@@ -14,5 +14,8 @@ Cloud Bao(Chenxi)
 AI music researcher, film/game composer, interactive music designer, music software engineer, indie musician，double bass/electric bass player
 
 
+my bilibili webpage is https://space.bilibili.com/220834048?spm_id_from=333.1007.0.0
+
+
 
 
