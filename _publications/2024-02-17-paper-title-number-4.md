@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Video Background Music Generation: Dataset, Method and Evaluation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
