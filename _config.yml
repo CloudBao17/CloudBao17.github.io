@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sh.jpg"
   name             : "Chenxi Bao"
   pronouns         : # example: "he/his"  
   bio              : "Research assistant of music AI in ML department of MBZUAI"
