@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'This paper is about video background symbolic music generation.'
-date: 2023
+date: 2023-10-6
 venue: 'ICCV'
 slidesurl: 
 paperurl: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhuo_Video_Background_Music_Generation_Dataset_Method_and_Evaluation_ICCV_2023_paper.pdf
