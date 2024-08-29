@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Cloud"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "Research assistant of music AI in ML department of MBZUAI"
   location         : "Abu Dhabi, UAE"
-  employer         : "Mohamed bin Zayed University of Artificial Intelligence"
+  employer         : "MBZUAI"
   uri              : # URL
   email            : "cloudingcxb17@gmail.com" 
 
@@ -48,8 +48,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  bilibili         : # Username
+  bluesky          : 
+  bilibili         : https://space.bilibili.com/220834048?spm_id_from=333.1007.0.0
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
