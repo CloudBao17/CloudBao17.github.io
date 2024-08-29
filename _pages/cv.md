@@ -30,11 +30,7 @@ Work experience
   * Duties included: Teaching students about composing, interactive music and sound design, making portforlio
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
   
