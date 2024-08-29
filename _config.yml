@@ -34,9 +34,9 @@ author:
   arxiv            : 
   googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : 
-  bilibili         : https://space.bilibili.com/220834048?spm_id_from=333.1007.0.0
+  
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
