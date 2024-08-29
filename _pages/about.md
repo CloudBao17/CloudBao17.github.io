@@ -9,8 +9,9 @@ redirect_from:
 
 "Purify my dwelling, find my essence, and walk the path to enlightenment".
 
-Cloud Bao(Chenxi)'s personal website  
+Cloud Bao(Chenxi)
 ======
+AI music researcher, film/game composer, interactive music designer, music software engineer, indie musician，double bass/electric bass player
 
 
 
