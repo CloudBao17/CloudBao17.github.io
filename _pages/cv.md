@@ -35,21 +35,25 @@ Research Experience
 * Spring 2022 - Now
   * Colalab, BUAA
   * Research topic: Symbolic/audio music generation with video background
+  * Research details: 1.Build up dataset, and use transformer models to train pop music's chord, melody, and accompaniment seperately with video features. 2.Take the advantage of LLMS. Use Video2Text LLMs to generate possible music description and finetune pretrained music generation models.
   * Supervisor: Si Liu
 
 * Spring 2022 
   * Automatic Academic, BUAA
   * Research topic: Hardware and Software Design of Wireless Guitar
+  * Research details: design and make PCB, 3D-print body and unique algorithm for wireless guitar
   * Supervisor: Jinsong Yu
 
 * Summer 2023 
   * Reid School of Music, UOE
   * Research topic: color based AI music generation with visual background
+  * Research details: Align "music chord color" and "visual color", use picture's color to control music generation, and build up dataset
   * Supervisor: Tom Mudd, Martin Parker, Chris Letcher
 
 * Spring 2024 - Now
   * Music X Lab, MBZUAI
   * Research topic: Symbolic music generation with performance curve,etc.
+  * Research details: Use diffusion models to generate all the performance values of piano under the condition of given midi
   * Supervisor: Gus Xia
 
 Orchestra/Band Experience
