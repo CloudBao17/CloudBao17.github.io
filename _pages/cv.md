@@ -51,8 +51,33 @@ Research Experience
   * Music X Lab, MBZUAI
   * Research topic: Symbolic music generation with performance curve,etc.
   * Supervisor: Gus Xia
- 
 
+Orchestra/Band Experience
+======
+* 2018 - 2022
+  *BUAA symphony orchestra/ wind symphony orchestra/ folk orchestra
+  *Lead Double Bass Player
+
+* Fall 2020
+  *Sweet Die band
+  *Drum Player
+
+* 2021 - 2022, 2023-2024
+  *Imperial 9 symphony orchestra
+  *Double Bass Player
+
+*Spring 2021
+  *Cloud band
+  *Singer and Acoustic Guitar player
+
+*Fall 2021
+  *China East symphony orchestra
+  *Double Bass Player
+
+
+*Spring 2023
+  *The Population Explosion band
+  *Electric Bass Player
   
 
 
