@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
+Need to be updated!
+
+
+
+
+
+
+
 Education
 ======
 * M.S. in Reid School of Music, University of Edinburgh, 2023
